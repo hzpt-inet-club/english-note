@@ -5,6 +5,10 @@ module.exports = {
     description: '从0开始学习英语语法',
     themeConfig: {
       darkMode: false,
+      sidebar: [
+        '/guide/grammar.md',
+        '/guide/sentence.md'
+      ],
     },
     
   }
