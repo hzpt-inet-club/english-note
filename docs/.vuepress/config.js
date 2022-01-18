@@ -7,7 +7,8 @@ module.exports = {
       darkMode: false,
       sidebar: [
         '/guide/grammar.md',
-        '/guide/sentence.md'
+        '/guide/sentence.md',
+        '/guide/giant.md'
       ],
     },
     
