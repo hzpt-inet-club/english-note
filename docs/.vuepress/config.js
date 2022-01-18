@@ -8,7 +8,8 @@ module.exports = {
       sidebar: [
         '/guide/grammar.md',
         '/guide/sentence.md',
-        '/guide/giant.md'
+        '/guide/giant.md',
+        '/guide/adjectiveToNoun.md',
       ],
     },
     
