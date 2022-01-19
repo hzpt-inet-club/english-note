@@ -13,6 +13,13 @@ module.exports = {
     },
 
     themeConfig: {
+      docsRepo: 'https://github.com/hzpt-inet-club/english-note',
+      docsBranch: 'master',
+      docsDir: 'docs',
+      editLinkPattern: ':repo/edit/:branch/:path',
+      contributors: false,
+      logo: "/logo/logo.svg",
+      repo: "hzpt-inet-club/english-note",
       darkMode: false,
       sidebar: [
         '/guide/grammar.md',
@@ -21,6 +28,7 @@ module.exports = {
         '/guide/adjectiveToNoun.md',
         '/guide/adverb.md',
         '/guide/preposition.md',
+        '/guide/compare.md',
       ],
     },
     
