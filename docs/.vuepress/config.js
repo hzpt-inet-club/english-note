@@ -20,6 +20,7 @@ module.exports = {
         '/guide/giant.md',
         '/guide/adjectiveToNoun.md',
         '/guide/adverb.md',
+        '/guide/preposition.md',
       ],
     },
     
