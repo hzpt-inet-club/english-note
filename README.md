@@ -62,7 +62,7 @@ yarn docs:dev
 
 ## 如何贡献
 
-在 [INet](https://github.com/hzpt-inet-club) 社区中拥有一个 [home](https://github.com/hzpt-inet-club/home) 项目，详细的说明了如何进行贡献项目，简单来说`提出一个issue`和`提出一个pull reuest` 都是可以的。
+在 [INet](https://github.com/hzpt-inet-club) 社区中拥有一个 [home](https://github.com/hzpt-inet-club/home) 项目，详细的说明了如何进行贡献项目，简单来说`提出一个issue`和`提出一个pull Reuest` 都是可以的。
 
 ## 贡献
 
@@ -72,7 +72,7 @@ yarn docs:dev
 
 [百词斩](https://www.baicizhan.com/) 提供内容贡献
 
-[VuePress](https://github.com/vuepress/vuepress-next) 提个项目贡献
+[VuePress](https://github.com/vuepress/vuepress-next) 提供项目贡献
 
 ### 人员贡献
 
