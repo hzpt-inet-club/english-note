@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://hzpt-inet-club.github.io/english-note/logo/logo.svg">
+</div>
+
 <h1 align="center">英语语法笔记</h1>
 
 ## 背景
