@@ -22,7 +22,7 @@
 > 
 > 所以说到底还是没有什么捷径可走的，想提高英语总得有所付出。 --尤雨溪
 
-这边完成了第一步，语法的联系，后续的方法可以采用[百词斩](https://www.baicizhan.com/)和[新概念英语](https://zh.wikipedia.org/zh-cn/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD)作为教材进行学习。
+这边完成了第一步，语法的练习，后续的方法可以采用[百词斩](https://www.baicizhan.com/)和[新概念英语](https://zh.wikipedia.org/zh-cn/%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD)作为教材进行学习。
 
 ## 安装
 
@@ -62,7 +62,7 @@ yarn docs:dev
 
 ## 如何贡献
 
-在 [INet](https://github.com/hzpt-inet-club) 社区中拥有一个 [home](https://github.com/hzpt-inet-club/home) 项目，详细的说明了如何进行贡献项目，简单来说`提出一个issue`和`提出一个pull Reuest` 都是可以的。
+在 [INet](https://github.com/hzpt-inet-club) 社区中拥有一个 [home](https://github.com/hzpt-inet-club/home) 项目，详细的说明了如何进行贡献项目，简单来说`提出一个issue`和`提出一个pull Request` 都是可以的。
 
 ## 贡献
 
