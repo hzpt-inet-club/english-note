@@ -1,0 +1,1 @@
+const e={key:"v-21e395eb",path:"/guide/adverb.html",title:"\u82B1\u5FC3\u7684\u526F\u8BCD",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642575189e3},filePathRelative:"guide/adverb.md"};export{e as data};

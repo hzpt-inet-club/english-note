@@ -1,0 +1,1 @@
+const e={key:"v-1b358200",path:"/guide/compare.html",title:"\u641E\u4E8B\u7684\u6BD4\u8F83\u7EA7",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642582105e3},filePathRelative:"guide/compare.md"};export{e as data};

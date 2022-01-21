@@ -1,0 +1,1 @@
+const e={key:"v-4a537307",path:"/guide/adjectiveToNoun.html",title:"\u5F62\u5BB9\u8BCD \u548C \u540D\u8BCD \u7684\u5173\u7CFB",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642495676e3},filePathRelative:"guide/adjectiveToNoun.md"};export{e as data};

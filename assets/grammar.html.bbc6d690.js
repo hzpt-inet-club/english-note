@@ -1,0 +1,1 @@
+const e={key:"v-39dec07e",path:"/guide/grammar.html",title:"\u4ECE\u8BCD\u6027\u5F00\u59CB",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642414595e3},filePathRelative:"guide/grammar.md"};export{e as data};
