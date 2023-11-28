@@ -37,13 +37,19 @@
 git clone https://github.com/hzpt-inet-club/english-note.git
 ```
 
-2. 进入更目录后
+2. 进入根目录
 
 ```shell
-yarn init
+cd english-note
 ```
 
-3. 运行
+3. 安装依赖
+
+```shell
+yarn install
+```
+
+4. 运行
 ```shell
 yarn docs:dev
 ```
